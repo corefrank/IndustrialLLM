@@ -1,0 +1,4 @@
+Work CUDA check: CPU-only PyTorch wheel; no NVIDIA device detected.
+Linux-6.18.57-x86_64-with-glibc2.41
+2.6.0+cpu False
+Docker CLI unavailable in Work.
